@@ -5,6 +5,10 @@
 }
 
 body {
+  
+  color: #d4af37; /* dorado elegante */
+}
+
   font-family: "Segoe UI", Arial, sans-serif;
   line-height: 1.6;
   background: 
@@ -13,7 +17,6 @@ body {
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-  color: #000000; /* negro */
 
 header {
   background-color: #1e3a8a;
@@ -97,6 +100,7 @@ footer {
   padding: 15px;
   font-size: 0.9em;
 }
+
 
 
 
