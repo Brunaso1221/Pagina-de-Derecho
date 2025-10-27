@@ -13,7 +13,7 @@ body {
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
-  color: #000000;
+  color: #000000; /* negro */
 
 header {
   background-color: #1e3a8a;
@@ -97,6 +97,7 @@ footer {
   padding: 15px;
   font-size: 0.9em;
 }
+
 
 
 
